@@ -11,10 +11,10 @@ Os cursos programação, maker e robótica introduzem os alunos a um ambiente in
 **Buscamos pessoas que compartilhem do nosso propósito e do nosso sonho:**
 
 **Nosso propósito**
-*Formar pessoas capazes de mudar o mundo.
+* Formar pessoas capazes de mudar o mundo.
 
 **Nosso sonho**
-*Que nossos alunos sejam capazes de criar soluções de impacto para melhorar a vida de milhões de pessoas pelo mundo.
+* Que nossos alunos sejam capazes de criar soluções de impacto para melhorar a vida de milhões de pessoas pelo mundo.
 
 ## 🎮 Sobre o Desafio 
 
@@ -22,7 +22,7 @@ Você deverá planejar, desenvolver e documentar um jogo no estilo [Archero](htt
 Para isso, gostaríamos de ver a sua capacidade de planejameto, criando as tarefas do projeto em uma ferramenta de gestão de projetos como Trello, Jira, MS Project, Asana, Notion, etc.
 O projeto deverá ser criado em Unity, otimizado para build WebGL.
 
-** 📋 O jogo deve conter:**
+📋 **O jogo deve conter:**
 * Mecânica de movimentação do personagem.
 * Power-ups que alterem o tipo do tiro do personagem de forma perceptível.
 * Personagem deverá atacar o inimigo mais próximo.
@@ -30,7 +30,7 @@ O projeto deverá ser criado em Unity, otimizado para build WebGL.
 * Tela de game over que mostre a pontuação do jogador.
 * Pontuação pode ser criada da forma que você preferir.
 
-** 👀 O que avaliaremos:**
+👀 **O que avaliaremos:**
 * Utilização de ao menos duas design patterns aplicadas a jogos (Singleton não vale).
 * Utilização de ScriptableObjects.
 * Código legível. Sem necessidade de comentários.
@@ -40,13 +40,13 @@ O projeto deverá ser criado em Unity, otimizado para build WebGL.
 * Os commits realizados ao longo do desenvolvimento (Queremos saber como vc executa seu raciocínio)
 * A documentação do seu projeto.
 
-** 🚚 O que você precisa entregar**
+🚚 **O que você precisa entregar**
 Você precisa enviar um link para o repositório do seu projeto contendo um arquivo README com:
 *Instruções básicas para executar seu projeto.
 *Link para acesso do seu quadro de gerenciamento de projetos.
 *Link para toda a documentação de projeto que você criar (você escolhe os documentos que julgar necessário)
 
-** 🚀 Para aqueles que gostam de ir além...**
+🚀 **Para aqueles que gostam de ir além...**
 Você pode publicar seu jogo em algum servidor e incluir o link no README.
 Você pode criar uma página Web que exiba o ranking de melhores jogadores e incluir o link no README.
 
