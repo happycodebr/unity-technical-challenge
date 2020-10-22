@@ -26,7 +26,7 @@ O projeto deverá ser criado em Unity, otimizado para build WebGL.
 
 * Mecânica de movimentação do personagem.
 * Power-ups que alterem o tipo do tiro do personagem de forma perceptível.
-* Personagem deverá atacar o inimigo mais próximo.
+* Personagem deverá atacar o inimigo mais próximo automaticamente.
 * Variações de inimigos (pelo menos ataque a distância e corpo-a-corpo).
 * Tela de game over que mostre a pontuação do jogador.
 * Pontuação pode ser criada da forma que você preferir.
