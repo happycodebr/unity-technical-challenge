@@ -1,20 +1,13 @@
 # Unity Technical Challenge
 
-## Sobre a Happy Code
+## Quem é a Happy
+Somos o maior Hub Educacional voltado ao desenvolvimento de habilidades e competências do século 21.
 
-A Happy Code é uma referência global no ensino de Programação, Maker e Robóca, presente em países como Brasil, Portugal, Espanha e Estados Unidos. Sua fundação ocorreu em 2015, a parr da necessidade do ensino de ciências da computação para crianças e adolescentes.
+Utilizamos a tecnologia e a inovação no aprendizado de crianças, jovens e adultos. Acreditamos em um mundo feliz e compartilhamos conhecimentos sobre educação socioemocional, educação tecnológica, educação financeira e comunicação.
 
-A metodologia de ensino é baseada no desenvolvimento de habilidades do século 21, trabalhando disciplinas fundamentais na formação de pessoas mais capacitadas para lidar com os novos desafios da era digital.
+**Nosso Propósito:** Formar pessoas capazes e com vontade de mudar o Mundo!
 
-Os cursos programação, maker e robótica introduzem os alunos a um ambiente inovador. Por meio do aprendizado baseado em projetos, seu conteúdo esmula competências como raciocínio, criavidade, pensamento críco, resolução de problemas, comunicação e colaboração.
-
-**Buscamos pessoas que compartilhem do nosso propósito e do nosso sonho:**
-
-**Nosso propósito**
-* Formar pessoas capazes de mudar o mundo.
-
-**Nosso sonho**
-* Que nossos alunos sejam capazes de criar soluções de impacto para melhorar a vida de milhões de pessoas pelo mundo.
+**Nossos Valores:** Transformar Pessoas | Pensamento Ilimitado | Apaixonados por Resultado | Sempre Otimistas
 
 ## 🎮 Sobre o Desafio 
 
@@ -51,8 +44,8 @@ Você precisa enviar um link para o repositório do seu projeto contendo um arqu
 
 🚀 **Para aqueles que gostam de ir além...**
 
-Você pode publicar seu jogo em algum servidor e incluir o link no README.
-Você pode criar uma página Web que exiba o ranking de melhores jogadores e incluir o link no README.
+- Você pode publicar seu jogo em algum servidor e incluir o link no README.
+- Você pode criar uma página Web que exiba o ranking de melhores jogadores e incluir o link no README.
 
 ## BOA SORTE!! 🍀
 
