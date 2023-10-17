@@ -31,7 +31,7 @@ O projeto deverá ser criado em Unity, otimizado para build WebGL.
 * Utilização de ao menos duas design patterns aplicadas a jogos (Singleton não vale).
 * Utilização de ScriptableObjects.
 * Código legível. Sem necessidade de comentários.
-* Aplicação de conceitos de Orientação à Objeto.
+* Aplicação de conceitos de Orientação à Objeto (SOLID).
 * Utilização de estruturas de dados diferentes de Listas e Arrays.
 * Persistência de dados utilizando o Firebase (pode ser algum sistema de highscore).
 * Os commits realizados ao longo do desenvolvimento (Queremos saber como vc executa seu raciocínio)
