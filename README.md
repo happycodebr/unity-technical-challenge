@@ -11,7 +11,7 @@ Utilizamos a tecnologia e a inovação no aprendizado de crianças, jovens e adu
 
 ## 🎮 Sobre o Desafio 
 
-Você deverá planejar, desenvolver e documentar um jogo no estilo [Archero](https://play.google.com/store/apps/details?id=com.habby.archero&hl=en&gl=US).
+Você deverá planejar, desenvolver e documentar um jogo no estilo [Archero](https://play.google.com/store/apps/details?id=com.habby.archero&hl=en&gl=US) ([Gameplay](https://www.youtube.com/watch?v=LjgutAcNXQo)).
 
 Para isso, gostaríamos de ver a sua capacidade de planejameto, criando as tarefas do projeto em uma ferramenta de gestão de projetos como Trello, Jira, MS Project, Asana, Notion, etc.
 
